@@ -1,1 +1,4 @@
-
+Software Requirement
+1. PowerBI
+2. PowerBI service
+3. Microsoft Excel
